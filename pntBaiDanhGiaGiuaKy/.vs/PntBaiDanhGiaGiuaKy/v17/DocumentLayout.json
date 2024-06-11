@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|c:\\users\\admin\\downloads\\quoccntt\\vaitapjs\\pntbaidanhgiagiuaky\\ntqbaidanhgiagiuaky\\views\\ntqstudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:ntqbaidanhgiagiuaky\\views\\ntqstudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|c:\\users\\admin\\downloads\\quoccntt\\vaitapjs\\pntbaidanhgiagiuaky\\ntqbaidanhgiagiuaky\\views\\ntqstudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:ntqbaidanhgiagiuaky\\views\\ntqstudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|c:\\users\\admin\\downloads\\quoccntt\\vaitapjs\\pntbaidanhgiagiuaky\\ntqbaidanhgiagiuaky\\views\\ntqstudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:ntqbaidanhgiagiuaky\\views\\ntqstudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|c:\\users\\admin\\downloads\\quoccntt\\vaitapjs\\pntbaidanhgiagiuaky\\ntqbaidanhgiagiuaky\\views\\ntqstudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:ntqbaidanhgiagiuaky\\views\\ntqstudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|c:\\users\\admin\\downloads\\quoccntt\\vaitapjs\\pntbaidanhgiagiuaky\\ntqbaidanhgiagiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:ntqbaidanhgiagiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -32,14 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Models\\PntStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:NtqBaiDanhGiaGiuaKy\\Models\\PntStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABA8735-BA15-425C-8845-459A1E937134}|NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj|solutionrelative:NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,15 +65,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Delete.cshtml",
+              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:16:01.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Create.cshtml",
+              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Create.cshtml",
+              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:16:01.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Index.cshtml",
+              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Index.cshtml",
+              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:14:46.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Edit.cshtml",
+              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Views\\NtqStudents\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:14:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\Shared\\_Layout.cshtml",
@@ -70,19 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T05:41:24.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\Web.config",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\Web.config",
@@ -94,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\App_Start\\BundleConfig.cs",
@@ -106,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\App_Start\\FilterConfig.cs",
@@ -118,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\App_Start\\RouteConfig.cs",
@@ -130,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PntBaiDanhGiaGiuaKy",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\PntBaiDanhGiaGiuaKy.csproj",
@@ -141,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "PntStudent.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Models\\PntStudent.cs",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Models\\PntStudent.cs",
@@ -153,19 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PntStudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
-              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
-              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAswCoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T05:16:38.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs",
@@ -173,7 +213,37 @@
               "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T05:16:37.967Z"
+              "WhenOpened": "2024-06-03T05:16:37.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PntStudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
+              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
+              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Controllers\\PntStudentsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:16:38.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuocCNTT\\vaitapjs\\pntBaiDanhGiaGiuaKy\\NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NtqBaiDanhGiaGiuaKy\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T05:41:24.66Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
